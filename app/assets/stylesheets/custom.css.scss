@@ -70,5 +70,15 @@
     text-shadow: -1px  0 #555, 0 1px #555, 1px 0 #555, 0 -1px #555;
     /*
     h2 {
-        font-size: 35px !important*/
+        font-size: 35px !important
+    }*/
+}
+
+.no-left-padding {
+    padding-left: 0 !important;
+}
+
+.listing {
+    list-style: none;
+    padding-left: 0;
 }
